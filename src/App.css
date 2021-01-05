@@ -1,0 +1,22 @@
+h1 {
+  margin: 40px 0 20px 0;
+  width: 100%;
+  text-align: center;
+}
+
+.form {
+  z-index: 1000;
+}
+
+#krtoolbar {
+  display: none !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.kr-payment-button {
+  margin-top: 20px !important;
+}
