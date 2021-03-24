@@ -1,6 +1,6 @@
 {
-  "name": "minimal-example",
-  "homepage": "/payment/",
+  "name": "insidebull-system-pay",
+  "homepage": "http:///payment/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,5 +33,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "# React",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsideBull/systempay-react-integration.git"
+  },
+  "author": "Andry Radimison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InsideBull/systempay-react-integration/issues"
   }
 }
