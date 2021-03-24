@@ -1,8 +1,8 @@
 {
   "name": "insidebull-system-pay",
   "homepage": "http:///payment/",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "dependencies": {
     "@lyracom/embedded-form-glue": "^0.3.0",
     "es6-promise": "^4.2.8",
